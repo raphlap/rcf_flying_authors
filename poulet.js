@@ -113,8 +113,7 @@ function setup() {
 
   //loadJSON('seasons.json', draw);
   createCanvas(2000, 3000);
-   // Move the canvas so it's inside our <div id="sketch-holder">.
-  canvas.parent('sketch-holder');
+
   textFont("Metrophobic");
   //noLoop();
   //var perf_length = Object.keys(performances).length
