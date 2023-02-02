@@ -1,4 +1,4 @@
-# rcf_flying_authors
+# Visualiser les données des registres de la Comédie Française
 Du 19 au 21 mai 2016, l’opportunité m’a été offerte de participer à un
 colloque se tenant à Boston et intitulé [Pratiques Théâtrales et Archives
 Numérisées](http://cfregisters.org/img/assets/hero/programmeRCF_web_170215_190322.pdf).
