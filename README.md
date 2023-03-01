@@ -60,8 +60,7 @@ pièces qui ont fait le plus recettes au cours de chacune de ces dernières
 devaient servir eux-mêmes d’encadrement, sous la forme de pastilles de couleur
 disposées horizontalement et verticalement autour des saisons.
 
-[caption id="attachment_43" align="alignnone"
-width="1462"]![RCF_1](https://github.com/raphlap/rcf_flying_authors/blob/master/rcf_1.png)
+![RCF_1](https://github.com/raphlap/rcf_flying_authors/blob/master/rcf_1.png)
 Premier tableau représentant chacune des saisons de la Comédie-Française ainsi
 que les auteurs et pièces ayant fait le plus recette pour chacune d'entre
 elles.[/caption]
@@ -74,8 +73,7 @@ après sélection par l’utilisateur d’une année, cette seconde représentat
 enchâssée dans la première redonne une place conventionnelle au temps, ce
 dernier étant symbolisé par une ligne verticale découpée en douze mois.
 
-[caption id="attachment_44" align="alignnone"
-width="1450"]![RCF_2](https://github.com/raphlap/rcf_flying_authors/blob/master/rcf_2.png)
+![RCF_2](https://github.com/raphlap/rcf_flying_authors/blob/master/rcf_2.png)
 Second tableau représentant pour une année sélectionnée les auteurs ayant fait
 le plus recette en première et seconde partie de soirée pour chaque semaine de
 l'année.[/caption]
